@@ -1,0 +1,39 @@
+.cd-pub-button {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 20px 0;
+}
+.cd-pub-button ion-button ion-label {
+    margin-left: 5px;
+    font-size: 10px;
+}
+
+.cd-pub-button ion-button {
+    --padding-start: 0.05rem;
+    --padding-end: 0.05rem;
+}
+
+.flex-center {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.pdt-30 {
+    padding-top: 30px;
+}
+
+ion-card-header {
+    padding: 0;
+}
+
+.card-publication ion-card-content {
+    text-align: justify;
+}
+
+.card-publication figure {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+}

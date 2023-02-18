@@ -1,0 +1,7 @@
+{
+  "name": "app-piaf",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}

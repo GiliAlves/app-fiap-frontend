@@ -1,0 +1,18 @@
+.flex-center {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.flex-end {
+    justify-content: end;
+}
+
+.cd-post-inp-bt {
+    margin: 0;
+}
+
+ion-item.cd-post-inp {
+    --padding-start: 4px;
+    --inner-padding-end: 4px;
+}

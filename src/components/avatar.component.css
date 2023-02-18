@@ -1,0 +1,21 @@
+ion-avatar.perfil-avatar {
+    width: 40px;
+    height: 40px;
+    margin-right: 10px;
+}
+
+ion-avatar.card-avatar {
+    width: 80px;
+    height: 80px;
+    margin: 0;
+}
+ion-avatar.post-avatar {
+    width: 40px;
+    height: 40px;
+    margin: 0;
+}
+ion-avatar.card-perfil-avatar {
+    width: 130px;
+    height: 130px;
+    margin: 0;
+}
